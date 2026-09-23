@@ -48,4 +48,4 @@ API RESTful desenvolvida em **Java 21** e **Spring Boot 4.1.1** para gerenciamen
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/spells-harrypotter.git](https://github.com/SEU-USUARIO/spells-harrypotter.git)
+   git clone https://github.com/fonsecamarco/spells-harrypotter.git
